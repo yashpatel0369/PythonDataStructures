@@ -1,4 +1,5 @@
 # Delete Node in a Linked List
+# A function to delete a node (except the tail) in a singly linked list, given only access to that node.
 # 
 # Definition for singly-linked list.
 # class ListNode(object):
